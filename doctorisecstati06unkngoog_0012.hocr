@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorisecstati06unkngoog_0012.png"; bbox 0 0 4309 6259; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 481 367 1324 509">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 481 367 1324 509">
+     <span class='ocr_line' id='line_1_1' title="bbox 481 367 1324 509; baseline 0.014 -12"><span class='ocrx_word' id='word_1_1' title='bbox 481 370 568 497; x_wconf 79' lang='lat' dir='ltr'><em>C</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 701 392 1004 509; x_wconf 47' lang='grc' dir='ltr'>(Αἵ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1065 367 1324 509; x_wconf 56' lang='lat'>75</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1639 1222 2110 1502">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1639 1222 2110 1502">
+     <span class='ocr_line' id='line_1_2' title="bbox 1693 1222 2058 1301; baseline -0.03 -1"><span class='ocrx_word' id='word_1_4' title='bbox 1693 1222 2058 1301; x_wconf 67' lang='lat' dir='ltr'>HARVAQD</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1639 1324 2110 1405; baseline -0.036 -2"><span class='ocrx_word' id='word_1_5' title='bbox 1639 1336 1760 1405; x_wconf 80' lang='lat' dir='ltr'>UN</span> <span class='ocrx_word' id='word_1_6' title='bbox 1773 1324 2110 1399; x_wconf 75' lang='grc' dir='ltr'>ΝΕΩΞΙΤΥ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1724 1427 2032 1502; baseline -0.042 0"><span class='ocrx_word' id='word_1_7' title='bbox 1724 1427 2032 1502; x_wconf 72' lang='grc' dir='ltr'>ῌΒΩΑΩΥ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
